@@ -7,7 +7,7 @@ about:
   head: 625e19c
   archived: false
   latestVersion: v0.19.0
-  collectedAt: 2026-09-04T19:51:36Z
+  collectedAt: 2026-09-04T20:51:46Z
 timeline:
   created: 2019-01-13
   lastCommit: 2026-08-12
@@ -81,6 +81,34 @@ total:
   openIssue: 21
   commit: 372
 ---
+path: /home/runner/.x-repo/github.com/gruntwork-io/kubergrunt
+collectedAt: 2026-09-04T20:51:47Z
+loc:
+  Go:
+    code: 7960
+    comments: 830
+    blanks: 1295
+    files: 83
+  Yaml:
+    code: 146
+    comments: 0
+    blanks: 4
+    files: 1
+  Hcl:
+    code: 113
+    comments: 24
+    blanks: 31
+    files: 6
+  Markdown:
+    code: 0
+    comments: 337
+    blanks: 160
+    files: 2
+total:
+  code: 8273
+  comments: 1195
+  blanks: 1493
+  files: 92
 ---
 date: "2026-08-24"
 repo:
