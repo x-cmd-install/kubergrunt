@@ -5,7 +5,7 @@ about:
   head: 9ee0046
   archived: false
   latestVersion: "v0.19.0"
-  collectedAt: 2026-09-08T03:05:05Z
+  collectedAt: 2026-09-08T05:42:45Z
 timeline:
   created: 2019-01-13
   lastCommit: 2026-09-07
@@ -80,7 +80,7 @@ total:
   commit: 373
 ---
 path: /home/runner/.x-repo/github.com/gruntwork-io/kubergrunt
-collectedAt: 2026-09-08T03:05:07Z
+collectedAt: 2026-09-08T05:42:49Z
 loc:
   Go:
     code: 7960
