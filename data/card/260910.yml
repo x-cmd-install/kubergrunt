@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.19.0"
   latestRelease: "v0.19.0"
   latestPrerelease: "v0.17.3-alpha-1"
-  collectedAt: 2026-09-10T21:12:59Z
+  collectedAt: 2026-09-10T22:37:11Z
 timeline:
   created: 2019-01-13
   lastCommit: 2026-09-07
@@ -84,7 +84,7 @@ total:
   commit: 373
 ---
 path: /home/runner/.x-repo/github.com/gruntwork-io/kubergrunt
-collectedAt: 2026-09-10T21:13:01Z
+collectedAt: 2026-09-10T22:37:12Z
 loc:
   Go:
     code: 7960
