@@ -25,13 +25,13 @@ Total: **8,219** lines of code across **92** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-07-16 | 0 | 2 | 1 | 1 | 0 | 2 |
-| 90d | 2026-06-16 | 0 | 4 | 1 | 1 | 0 | 4 |
-| last180d | 2026-03-18 | 0 | 6 | 6 | 1 | 0 | 6 |
-| 360d | 2025-09-19 | 2 | 9 | 6 | 2 | 0 | 9 |
-| last720d | 2024-09-24 | 13 | 23 | 6 | 6 | 1 | 23 |
+| 30d | 2026-08-17 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-18 | 0 | 2 | 1 | 1 | 0 | 2 |
+| 90d | 2026-06-18 | 0 | 4 | 1 | 1 | 0 | 4 |
+| last180d | 2026-03-20 | 0 | 6 | 6 | 1 | 0 | 6 |
+| 360d | 2025-09-21 | 2 | 9 | 6 | 2 | 0 | 9 |
+| last720d | 2024-09-26 | 13 | 23 | 6 | 6 | 1 | 23 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for kubergrunt lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:09:52Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:13:08Z._

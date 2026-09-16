@@ -25,13 +25,13 @@ x install kubergrunt
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.3 / 10**
+总评分: **4.5 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -56,12 +56,12 @@ x install kubergrunt
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-07-16 | 0 | 2 | 1 | 1 | 0 | 2 |
-| 90d | 2026-06-16 | 0 | 4 | 1 | 1 | 0 | 4 |
-| last180d | 2026-03-18 | 0 | 6 | 6 | 1 | 0 | 6 |
-| 360d | 2025-09-19 | 2 | 9 | 6 | 2 | 0 | 9 |
-| last720d | 2024-09-24 | 13 | 23 | 6 | 6 | 1 | 23 |
+| 30d | 2026-08-17 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-18 | 0 | 2 | 1 | 1 | 0 | 2 |
+| 90d | 2026-06-18 | 0 | 4 | 1 | 1 | 0 | 4 |
+| last180d | 2026-03-20 | 0 | 6 | 6 | 1 | 0 | 6 |
+| 360d | 2025-09-21 | 2 | 9 | 6 | 2 | 0 | 9 |
+| last720d | 2024-09-26 | 13 | 23 | 6 | 6 | 1 | 23 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ kubergrunt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T06:09:52Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:13:09Z._
