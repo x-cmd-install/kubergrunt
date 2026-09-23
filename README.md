@@ -4,7 +4,7 @@
 
 Kubergrunt is a standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl. https://www.gruntwork.io
 
-[![x-cmd/install — kubergrunt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubergrunt.svg)](https://x-cmd.com/install/kubergrunt)
+[![x-cmd/install — kubergrunt Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubergrunt.svg)](https://x-cmd.com/install/kubergrunt)
 
 ## Install
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 564 · **Forks**: 93 · **Open issues**: 77 · **Contributors**: 27
+- **Stars**: 564 · **Forks**: 93 · **Open issues**: 78 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 183 · **Open PRs**: 6 · **Closed issues**: 57 · **Open issues**: 20 · **Commits**: 373
+- **Releases**: 104 · **Merged PRs**: 183 · **Open PRs**: 6 · **Closed issues**: 57 · **Open issues**: 21 · **Commits**: 373
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-07-24 | 0 | 2 | 1 | 1 | 0 | 2 |
-| 90d | 2026-06-24 | 0 | 4 | 1 | 1 | 0 | 4 |
-| last180d | 2026-03-26 | 0 | 6 | 5 | 1 | 0 | 6 |
-| 360d | 2025-09-27 | 2 | 9 | 5 | 2 | 0 | 9 |
-| last720d | 2024-10-02 | 13 | 23 | 5 | 6 | 1 | 23 |
+| 30d | 2026-08-24 | 0 | 1 | 1 | 0 | 1 | 1 |
+| last60d | 2026-07-25 | 0 | 1 | 1 | 1 | 1 | 2 |
+| 90d | 2026-06-25 | 0 | 4 | 1 | 1 | 1 | 4 |
+| last180d | 2026-03-27 | 0 | 6 | 5 | 1 | 1 | 6 |
+| 360d | 2025-09-28 | 2 | 9 | 5 | 2 | 1 | 9 |
+| last720d | 2024-10-03 | 13 | 23 | 5 | 6 | 2 | 23 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for kubergrunt lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:14:39Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:06:54Z._
