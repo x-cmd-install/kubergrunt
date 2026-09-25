@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 57621376,
       "digest": "sha256:27d20325fb1a2a8ebc01b2023ace841767d384e7e4fba63b7f035f685108d59f",
-      "download_count": 104,
+      "download_count": 105,
       "created_at": "2026-01-14T00:31:15Z",
       "updated_at": "2026-01-14T00:31:17Z",
       "browser_download_url": "https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_darwin_arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 58994174,
       "digest": "sha256:620d41154c748addc8030a9ce90f04e89fe7a68a24d0f38677a2ba2b9ecf4dcd",
-      "download_count": 61915,
+      "download_count": 62482,
       "created_at": "2026-01-14T00:31:20Z",
       "updated_at": "2026-01-14T00:31:22Z",
       "browser_download_url": "https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_linux_amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 56985176,
       "digest": "sha256:821758aef1ef59f98790b7cfa800c7615061a7994a1359404940c3e426a4b898",
-      "download_count": 9851,
+      "download_count": 9883,
       "created_at": "2026-01-14T00:31:22Z",
       "updated_at": "2026-01-14T00:31:24Z",
       "browser_download_url": "https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_linux_arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 633,
       "digest": "sha256:0d1c603996d5d5709954acd474cff7cc75cf599be982214ef24deaf5e1704227",
-      "download_count": 757,
+      "download_count": 758,
       "created_at": "2026-01-14T00:31:13Z",
       "updated_at": "2026-01-14T00:31:13Z",
       "browser_download_url": "https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/SHA256SUMS"
