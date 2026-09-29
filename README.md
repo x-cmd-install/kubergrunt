@@ -29,9 +29,9 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
+- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 1 | 1 | 0 | 1 | 1 |
-| last60d | 2026-07-30 | 0 | 1 | 1 | 1 | 1 | 2 |
-| 90d | 2026-06-30 | 0 | 4 | 1 | 1 | 1 | 4 |
-| last180d | 2026-04-01 | 0 | 6 | 5 | 1 | 1 | 6 |
-| 360d | 2025-10-03 | 2 | 9 | 5 | 2 | 1 | 9 |
-| last720d | 2024-10-08 | 13 | 23 | 5 | 6 | 2 | 23 |
+| 30d | 2026-08-30 | 0 | 1 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-31 | 0 | 1 | 1 | 1 | 1 | 0 |
+| 90d | 2026-07-01 | 0 | 4 | 1 | 1 | 1 | 0 |
+| last180d | 2026-04-02 | 0 | 6 | 5 | 1 | 1 | 0 |
+| 360d | 2025-10-04 | 2 | 9 | 5 | 2 | 1 | 0 |
+| last720d | 2024-10-09 | 13 | 23 | 5 | 6 | 2 | 23 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for kubergrunt lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:21:35Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:40:09Z._
