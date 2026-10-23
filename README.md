@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 1 | 3 | 1 | 0 | 1 |
-| 90d | 2026-07-24 | 0 | 2 | 3 | 2 | 0 | 2 |
-| last180d | 2026-04-25 | 0 | 4 | 6 | 2 | 0 | 6 |
-| 360d | 2025-10-27 | 2 | 9 | 6 | 3 | 0 | 9 |
-| last720d | 2024-11-01 | 12 | 22 | 6 | 6 | 1 | 22 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 1 | 3 | 1 | 0 | 1 |
+| 90d | 2026-07-25 | 0 | 1 | 3 | 2 | 0 | 2 |
+| last180d | 2026-04-26 | 0 | 4 | 6 | 2 | 0 | 6 |
+| 360d | 2025-10-28 | 2 | 9 | 6 | 3 | 0 | 9 |
+| last720d | 2024-11-02 | 12 | 22 | 6 | 6 | 1 | 22 |
 
 ## Release assets
 
@@ -76,6 +76,15 @@ Lowest-scoring checks:
 | [kubergrunt_windows_amd64.exe](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_windows_amd64.exe) | 56.9 MiB | `native/win/x64` |
 | [SHA256SUMS](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/SHA256SUMS) | 633 B | `other` |
 
+## Distribution status
+
+Reported by **12** distros on [repology.org](https://repology.org/project/kubergrunt). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.19.0` | ✅ latest |
+| Nix unstable | `0.19.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for kubergrunt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubergrunt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +94,4 @@ Install metadata for kubergrunt lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:40:20Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:43:59Z._

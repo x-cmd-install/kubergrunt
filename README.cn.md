@@ -56,12 +56,12 @@ x install kubergrunt
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 1 | 3 | 1 | 0 | 1 |
-| 90d | 2026-07-24 | 0 | 2 | 3 | 2 | 0 | 2 |
-| last180d | 2026-04-25 | 0 | 4 | 6 | 2 | 0 | 6 |
-| 360d | 2025-10-27 | 2 | 9 | 6 | 3 | 0 | 9 |
-| last720d | 2024-11-01 | 12 | 22 | 6 | 6 | 1 | 22 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 1 | 3 | 1 | 0 | 1 |
+| 90d | 2026-07-25 | 0 | 1 | 3 | 2 | 0 | 2 |
+| last180d | 2026-04-26 | 0 | 4 | 6 | 2 | 0 | 6 |
+| 360d | 2025-10-28 | 2 | 9 | 6 | 3 | 0 | 9 |
+| last720d | 2024-11-02 | 12 | 22 | 6 | 6 | 1 | 22 |
 
 ## Release 资产
 
@@ -76,6 +76,15 @@ x install kubergrunt
 | [kubergrunt_windows_amd64.exe](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_windows_amd64.exe) | 56.9 MiB | `native/win/x64` |
 | [SHA256SUMS](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/SHA256SUMS) | 633 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/kubergrunt) 上共有 **12** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.19.0` | ✅ latest |
+| Nix unstable | `0.19.0` | ✅ latest |
+
 ## 改进这些数据
 
 kubergrunt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kubergrunt` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -85,4 +94,4 @@ kubergrunt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:40:20Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:43:59Z._
