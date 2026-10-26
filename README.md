@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-26 | 0 | 1 | 3 | 1 | 0 | 1 |
-| 90d | 2026-07-27 | 0 | 1 | 3 | 2 | 0 | 2 |
-| last180d | 2026-04-28 | 0 | 4 | 6 | 2 | 0 | 4 |
-| 360d | 2025-10-30 | 2 | 9 | 6 | 3 | 0 | 9 |
-| last720d | 2024-11-04 | 12 | 22 | 6 | 6 | 1 | 22 |
+| 30d | 2026-09-26 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-27 | 0 | 1 | 3 | 1 | 0 | 1 |
+| 90d | 2026-07-28 | 0 | 1 | 3 | 2 | 0 | 2 |
+| last180d | 2026-04-29 | 0 | 4 | 6 | 2 | 0 | 4 |
+| 360d | 2025-10-31 | 2 | 9 | 6 | 3 | 0 | 9 |
+| last720d | 2024-11-05 | 12 | 22 | 6 | 6 | 1 | 22 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for kubergrunt lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:31:32Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:34:40Z._
