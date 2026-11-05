@@ -21,7 +21,7 @@ Total: **8,219** lines of code across **92** files in the top 5 languages.
 | Go | 7,960 | 830 | 1,295 | 83 |
 | Yaml | 146 | 0 | 4 | 1 |
 | Hcl | 113 | 24 | 31 | 6 |
-| Markdown | 0 | 337 | 160 | 2 |
+| Markdown | 0 | 386 | 162 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -40,50 +40,36 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.19.0` (2026-01-14)
-- **Last commit**: 2026-09-07
-- **Assets in release**: 8
+- **Latest**: `v0.19.1` (2026-11-05)
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 567 · **Forks**: 93 · **Open issues**: 78 · **Contributors**: 27
+- **Stars**: 566 · **Forks**: 93 · **Open issues**: 78 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 183 · **Open PRs**: 5 · **Closed issues**: 58 · **Open issues**: 20 · **Commits**: 373
+- **Releases**: 105 · **Merged PRs**: 184 · **Open PRs**: 3 · **Closed issues**: 58 · **Open issues**: 20 · **Commits**: 374
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 1 | 1 | 0 | 0 |
-| 90d | 2026-08-06 | 0 | 1 | 1 | 1 | 0 | 2 |
-| last180d | 2026-05-08 | 0 | 4 | 1 | 2 | 0 | 4 |
-| 360d | 2025-11-09 | 2 | 9 | 4 | 3 | 0 | 9 |
-| last720d | 2024-11-14 | 12 | 22 | 4 | 6 | 1 | 22 |
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [kubergrunt_darwin_amd64](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_darwin_amd64) | 57.0 MiB | `native/darwin/x64` |
-| [kubergrunt_darwin_arm64](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_darwin_arm64) | 55.0 MiB | `native/darwin/arm64` |
-| [kubergrunt_linux_386](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_linux_386) | 53.8 MiB | `other` |
-| [kubergrunt_linux_amd64](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_linux_amd64) | 56.3 MiB | `native/linux/x64` |
-| [kubergrunt_linux_arm64](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_linux_arm64) | 54.3 MiB | `native/linux/arm64` |
-| [kubergrunt_windows_386.exe](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_windows_386.exe) | 55.0 MiB | `native/win/x64` |
-| [kubergrunt_windows_amd64.exe](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_windows_amd64.exe) | 56.9 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/SHA256SUMS) | 633 B | `other` |
+| 30d | 2026-10-06 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-06 | 1 | 0 | 0 | 1 | 0 | 1 |
+| 90d | 2026-08-07 | 1 | 1 | 0 | 1 | 0 | 3 |
+| last180d | 2026-05-09 | 1 | 4 | 0 | 2 | 0 | 5 |
+| 360d | 2025-11-10 | 3 | 10 | 2 | 3 | 0 | 10 |
+| last720d | 2024-11-15 | 13 | 23 | 2 | 6 | 1 | 23 |
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/kubergrunt). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/kubergrunt). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.19.0` | ✅ latest |
-| Nix unstable | `0.19.0` | ✅ latest |
+| Homebrew | `0.19.1` | ✅ latest |
+| Nix unstable | `0.19.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -94,4 +80,4 @@ Install metadata for kubergrunt lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:34:24Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:38:32Z._
