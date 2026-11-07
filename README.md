@@ -2,6 +2,8 @@
 
 [中文版本](./README.cn.md)
 
+> ⚠️ This project is archived.
+
 Kubergrunt is a standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl. https://www.gruntwork.io
 
 [![x-cmd/install — kubergrunt Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubergrunt.svg)](https://x-cmd.com/install/kubergrunt)
@@ -49,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 184 · **Open PRs**: 3 · **Closed issues**: 58 · **Open issues**: 20 · **Commits**: 374
+- **Releases**: 105 · **Merged PRs**: 184 · **Open PRs**: 0 · **Closed issues**: 78 · **Open issues**: 0 · **Commits**: 374
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-07 | 1 | 0 | 0 | 1 | 0 | 1 |
-| 90d | 2026-08-08 | 1 | 1 | 0 | 1 | 0 | 3 |
-| last180d | 2026-05-10 | 1 | 4 | 0 | 2 | 0 | 5 |
-| 360d | 2025-11-11 | 3 | 10 | 2 | 3 | 0 | 10 |
-| last720d | 2024-11-16 | 13 | 23 | 2 | 6 | 1 | 23 |
+| 30d | 2026-10-08 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-08 | 1 | 0 | 0 | 1 | 0 | 1 |
+| 90d | 2026-08-09 | 1 | 1 | 0 | 1 | 0 | 3 |
+| last180d | 2026-05-11 | 1 | 4 | 0 | 2 | 0 | 5 |
+| 360d | 2025-11-12 | 3 | 10 | 0 | 3 | 0 | 10 |
+| last720d | 2024-11-17 | 13 | 23 | 0 | 7 | 0 | 23 |
 
 ## Distribution status
 
@@ -80,4 +82,4 @@ Install metadata for kubergrunt lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:43:33Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:57:51Z._
