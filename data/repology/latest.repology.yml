@@ -2,9 +2,9 @@
   srcname: kubergrunt
   binname: kubergrunt
   visiblename: kubergrunt
-  version: 0.19.0
-  origversion: 0.19.0-1
-  status: outdated
+  version: 0.19.1
+  origversion: 0.19.1-1
+  status: newest
   summary: Kubergrunt is a standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl
   maintainers:
     - seniordevops@aur
